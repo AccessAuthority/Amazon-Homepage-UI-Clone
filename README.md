@@ -1,6 +1,3 @@
-Got it! Here’s an updated documentation template specifically for your Amazon UI clone project. 
-
----
 
 # Amazon UI Clone
 
