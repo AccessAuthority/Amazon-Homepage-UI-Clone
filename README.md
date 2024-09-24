@@ -2,7 +2,8 @@
 # Amazon UI Clone
 
 This project is a frontend clone of the Amazon user interface, built using HTML, CSS, and JavaScript. The goal is to replicate the design and functionality of the Amazon shopping experience.
-
+## Live Demo
+[Amazon UI Clone] (https://accessauthority.github.io/Amazon-Homepage-UI-Clone/)
 ## Table of Contents
 
 - [Features](#features)
