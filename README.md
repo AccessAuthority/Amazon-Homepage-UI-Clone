@@ -74,5 +74,5 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 For questions or feedback, feel free to reach out:
 
-- Your Name - [your.email@example.com](mailto:your.email@example.com)
-- GitHub: [yourusername](https://github.com/yourusername)
+- Your Name - [accessauthority.business@gmail.com](accessauthority.business@gmail.com)
+- GitHub: [Accessathority](https://github.com/accessauthority)
